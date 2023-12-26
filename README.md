@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://example.com" target="_blank">
-    <img src=""C:\Users\khloo\OneDrive\الصور\لقطات الشاشة\Screenshot (193).png"" width="400" alt="Your Image">
+    <img src="C:\Users\khloo\OneDrive\الصور\لقطات الشاشة\Screenshot (193).png" width="400" alt="Your Image">
   </a>
 </p>
 
